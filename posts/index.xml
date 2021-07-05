@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Wojtyla Night</title>
-    <link>https://mpschattle.github.io/wojtyla/posts/</link>
+    <link>https://wojtylanight.com/posts/</link>
     <description>Recent content in Blog on Wojtyla Night</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Jul 2021 13:23:29 -0500</lastBuildDate><atom:link href="https://mpschattle.github.io/wojtyla/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jul 2021 13:23:29 -0500</lastBuildDate><atom:link href="https://wojtylanight.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A New Journal</title>
-      <link>https://mpschattle.github.io/wojtyla/posts/newjournal/</link>
+      <link>https://wojtylanight.com/posts/newjournal/</link>
       <pubDate>Mon, 05 Jul 2021 13:23:29 -0500</pubDate>
       
-      <guid>https://mpschattle.github.io/wojtyla/posts/newjournal/</guid>
+      <guid>https://wojtylanight.com/posts/newjournal/</guid>
       <description>Some folks have been proposing that we collect some of the works presented at Wojtyla Night into a quarterly publication. We could add to them some book reviews, spiritual reflections and other articles written by folks at St. Mary Cathedral.
 Does anyone have interest in this project?</description>
     </item>
