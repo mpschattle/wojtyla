@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Wojtyla Night</title>
-    <link>https://example.com/docs/</link>
+    <link>https://github.com/mpschattle/wojtyla/docs/</link>
     <description>Recent content in Docs on Wojtyla Night</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Jul 2021 12:23:00 -0500</lastBuildDate><atom:link href="https://example.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jul 2021 12:23:00 -0500</lastBuildDate><atom:link href="https://github.com/mpschattle/wojtyla/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Wojtyla Night?</title>
-      <link>https://example.com/docs/pages/about/</link>
+      <link>https://github.com/mpschattle/wojtyla/docs/pages/about/</link>
       <pubDate>Mon, 05 Jul 2021 12:23:00 -0500</pubDate>
       
-      <guid>https://example.com/docs/pages/about/</guid>
+      <guid>https://github.com/mpschattle/wojtyla/docs/pages/about/</guid>
       <description>What is Wojtyla Night?#Wojtyla Night is an event inspired by the life of Pope St. John Paul II (born Karol Wojtyla). It is an evening when we gather together as a community to share those things which evoke the transcendentals of truth, goodness, and beauty, all things which may be called &amp;ldquo;catholic&amp;rdquo; (in the small-c sense). After sharing a meal, we participate in something which is part open-mic night, part poetry slam, part art show.</description>
     </item>
     
     <item>
       <title>Contact Us</title>
-      <link>https://example.com/docs/pages/contact/</link>
+      <link>https://github.com/mpschattle/wojtyla/docs/pages/contact/</link>
       <pubDate>Mon, 05 Jul 2021 12:22:05 -0500</pubDate>
       
-      <guid>https://example.com/docs/pages/contact/</guid>
+      <guid>https://github.com/mpschattle/wojtyla/docs/pages/contact/</guid>
       <description>Contact Page</description>
     </item>
     

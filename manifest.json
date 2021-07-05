@@ -1,14 +1,14 @@
 {
   "name": "Wojtyla Night",
   "short_name": "Wojtyla Night",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/mpschattle/wojtyla/",
+  "scope": "/mpschattle/wojtyla/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/mpschattle/wojtyla/favicon.svg",
       "sizes": "512x512"
     }
   ]
